@@ -12,3 +12,4 @@ class HelloWorld
         System.out.println("Test Line 3"); 
     } 
 }
+System.out.println(TEST)
